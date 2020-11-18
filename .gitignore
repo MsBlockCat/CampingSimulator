@@ -1,2 +1,6 @@
 Wack Mac Files
 *.DS_Store
+
+Unreal Engine Stuff That Doesn't Matter
+/Intermediate/*
+/Saved/*
